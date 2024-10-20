@@ -45,6 +45,13 @@ sudo dnf install python3
 
 openSUSE:
 sudo zypper install python3
+
+Gentoo:
+sudo emerge --ask python
+
+CentOS:
+sudo yum install python3
+
 # Ön-Gereksinim
 **Arch/Arch-Based:**
 ```bash
@@ -69,15 +76,6 @@ cd BaxrenSearchTerminal
 python BaxrenSearchTerminal.py
 ```
 
-Gentoo:
-sudo emerge --ask python
-
-CentOS:
-sudo yum install python3
-
-**2**-Bir Python geliştirme ortamını sisteminize kurmanız gerek. **PyCharm**,VScode,Atom vb. **(PyCharm Öneririm çünkü ben bu yazılımı Pycharmde Geliştirdim)**.
-
-**3**-Yeni bir proje oluşturun ve ismi BaxrenSearchTerminal olsun. Sonra bir Python dosyası oluşturun, ismi BaxrenSearchTerminal.py olsun. Deposundaki dört adet dosyadan biri olan BaxrenSearchTerminal.py isimli kod dizinindeki kodu kendi oluşturduğunuz BaxrenSearchTerminal.py kod dizinine yapıştırın ve kodu çalıştırıp test edin.
 
 # Kullanım
 Terminalde home klasöründeyken **python3 BaxrenSearchTerminal.py** komutunu girin ve artık rahatlıkla BaxrenSearchTerminal programını kullanabilirsiniz.
