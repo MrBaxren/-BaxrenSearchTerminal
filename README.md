@@ -53,29 +53,7 @@ cd BaxrenSearchTerminal
 python BaxrenSearchTerminal.py
 ```
 
-# Ön-Gereksinim
-**Arch/Arch-Based:**
-```bash
-sudo pacman -S git
-```
-**Ubuntu**
-```bash
-sudo apt install git
-```
-**Fedora**
-```bash
-sudo dnf install git
-```
-**OpenSUSE**
-```bash
-sudo zypper install git
-```
-## Kurulum
-```bash
-git clone https://github.com/MrBaxren/BaxrenSearchTerminal.git
-cd BaxrenSearchTerminal
-python BaxrenSearchTerminal.py
-```
+
 
 # **NOT**
 İlk başlangıçta URL girdikten sonra URL kabul edilmiyor olabilir. Enter'a bastıktan sonra fail mesajı alırsanız, G tuşuna basın ve URL'nizi oraya girin.
