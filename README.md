@@ -26,30 +26,11 @@ Herhangi Bir Sayfadayken şu seçeneklere sahipsiniz:
 **(h: yardım, q: çıkış, n: önceki sayfa, e: sonraki sayfa, g: git, m: menü):**
 
 # Kurulum
-**1**-Python Kurma:
+1: git clone [GitHub - MrBaxren/BaxrenSearchTerminal](https://github.com/MrBaxren/BaxrenSearchTerminal.git)
 
-Debian/Ubuntu: 
-sudo apt update
-sudo apt install python3
+2: cd BaxrenSearchTerminal
 
-Arch:
-sudo pacman -S python
-
-Fedora:
-sudo dnf install python3
-
-openSUSE:
-sudo zypper install python3
-
-Gentoo:
-sudo emerge --ask python
-
-CentOS:
-sudo yum install python3
-
-**2**-Bir Python geliştirme ortamını sisteminize kurmanız gerek. **PyCharm**,VScode,Atom vb. **(PyCharm Öneririm çünkü ben bu yazılımı Pycharmde Geliştirdim)**.
-
-**3**-Yeni bir proje oluşturun ve ismi BaxrenSearchTerminal olsun. Sonra bir Python dosyası oluşturun, ismi BaxrenSearchTerminal.py olsun. Deposundaki dört adet dosyadan biri olan BaxrenSearchTerminal.py isimli kod dizinindeki kodu kendi oluşturduğunuz BaxrenSearchTerminal.py kod dizinine yapıştırın ve kodu çalıştırıp test edin.
+3:python BaxrenSearchTerminal.py
 
 # Kullanım
 Terminalde home klasöründeyken **python3 BaxrenSearchTerminal.py** komutunu girin ve artık rahatlıkla BaxrenSearchTerminal programını kullanabilirsiniz.
