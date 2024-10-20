@@ -59,5 +59,6 @@ Terminalde home klasöründeyken **python3 BaxrenSearchTerminal.py** komutunu gi
 
 
 
+**EK: LYNX, LINKS, ELINKS vb. yazılımlardan esinlenmiştir.**
 
 
